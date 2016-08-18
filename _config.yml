@@ -2,6 +2,7 @@ name: The Django
 favicon: null
 layout_spectrum: 0.30901763937436044
 typography_spectrum: 0.4346440548542887
+title: The DJango
 cta:
   domain: null
   bucket: null
