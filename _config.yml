@@ -1,7 +1,7 @@
 name: The Django
 favicon: null
 layout_spectrum: 0.20619
-typography_spectrum: 0.4346440548542887
+typography_spectrum: 0.67831
 title: The DJango
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.48821173538453877
-  lightness: 0.454932140186429
-  saturation: 0.44174481579102576
-  rhythmicContrast: 0.7324000948574394
+  lightness: 0
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
